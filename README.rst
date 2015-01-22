@@ -1,4 +1,4 @@
-django-comments-xtd
+django-comments-xtd test from lyon
 ===================
 
       
